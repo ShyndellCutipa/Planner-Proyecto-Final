@@ -85,58 +85,7 @@
         <p><a href="#" class="btn btn-secondary btn-sm px-3 py-2">Leer mas</a></p>
       </div>
     </div>
-
-    <div class="half d-lg-flex d-block">
-      <div class="image order-2" style="background-image: url('images/plannerbg2.jpg')"></div>
-      <div class="text text-center element-animate">
-        <h3 class="mb-4">Company History</h3>
-        <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis tempora inventore, aliquam
-          ratione. Eum vero sapiente tempora eveniet perspiciatis libero, omnis quae facilis! Voluptatibus minima autem,
-          esse eius natus labore.</p>
-
-        <p><a href="#" class="btn btn-secondary btn-sm px-3 py-2">Learn More</a></p>
-      </div>
-    </div>
-
   </section>
-
-  <section class="section element-animate">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 col-lg-4">
-          <div class="media block-6 d-block text-center">
-            <div class="icon mb-3"><span class="ion-ios-bell-outline"></span></div>
-            <div class="media-body">
-              <h3 class="heading">Modern Design</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
-          </div>
-
-        </div>
-        <div class="col-md-6 col-lg-4 ">
-          <div class="media block-6 d-block text-center">
-            <div class="icon mb-3"><span class="ion-ios-heart-outline"></span></div>
-            <div class="media-body">
-              <h3 class="heading">Build With Love</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
-          </div>
-
-        </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="media block-6 d-block text-center">
-            <div class="icon mb-3"><span class="ion-ios-bolt-outline"></span></div>
-            <div class="media-body">
-              <h3 class="heading">Fast Loading</h3>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </section>
-
 
 
   <section class="section bg-light">
