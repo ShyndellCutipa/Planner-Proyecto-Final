@@ -129,25 +129,42 @@
                                 <div class="sttabs tabs-style-iconbox">
                                     <nav>
                                         <ul>
-                                            <li><a href="#section-iconbox-1" class="fa fa-home"><br><span>Uso 1</span></a></li>
-                                            <li><a href="#section-iconbox-2" class="fa fa-heart"><br><span>Uso 2</span></a></li>
+                                            <li><a href="#section-iconbox-1" class="fa fa-leaf"><br><span>Uso 1</span></a></li>
+                                            <li><a href="#section-iconbox-2" class="fa fa-leaf"><br><span>Uso 2</span></a></li>
                                             <li><a href="#section-iconbox-3" class="fa fa-leaf"><br><span>Uso 3</span></a></li>
-
+											<li><a href="#section-iconbox-4" class="fa fa-leaf"><br><span>Uso 4</span></a></li>
+                                            <li><a href="#section-iconbox-5" class="fa fa-leaf"><br><span>Uso 5</span></a></li>
+                                            <li><a href="#section-iconbox-6" class="fa fa-leaf"><br><span>Uso 6</span></a></li>
+                                            <li><a href="#section-iconbox-7" class="fa fa-leaf"><br><span>Uso 7</span></a></li>
+                                            <li><a href="#section-iconbox-8" class="fa fa-leaf"><br><span>Uso 8</span></a></li>
+                                            <li><a href="#section-iconbox-9" class="fa fa-leaf"><br><span>Uso 9</span></a></li>
                                         </ul>
                                     </nav>
                                     <div class="content-wrap">
                                         <section id="section-iconbox-1">
-                                            <h3>Best Clean Tab ever</h3>
-                                            <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+                                            <h2>Mira tu foto y datos personales</h2>
                                         </section>
                                         <section id="section-iconbox-2">
-                                            <h2>Tabbing 2</h2></section>
+                                            <h2>Mira tus actividades con más urgencia y categorizadas</h2>
+                                        </section>
                                         <section id="section-iconbox-3">
-                                            <h2>Tabbing 3</h2></section>
+                                            <h2>Elimina registros </h2></section>
                                         <section id="section-iconbox-4">
-                                            <h2>Tabbing 4</h2></section>
+                                            <h2>Mira la información de tus películas, series, entre otros.</h2></section>
                                         <section id="section-iconbox-5">
-                                            <h2>Tabbing 5</h2></section>
+                                            <h2>Mira tus actividades en forma de tarjeta o tabla</h2></section>
+                                        <section id="section-iconbox-6">
+                                            <h2>Edita tus actividades</h2>
+                                        </section>
+                                        <section id="section-iconbox-7">
+                                            <h2>Agenda nuevas actividades</h2></section>
+                                        <section id="section-iconbox-8">
+                                        	
+                                            <h2>Observa tus actividades</h2></section>
+                                        <section id="section-iconbox-9">
+                                        	
+                                            <h2>Ordena tus fechas a tu gusto</h2></section>
+
                                     </div>
                             </div>
                             </section>
@@ -155,13 +172,16 @@
                             <!-- END MAGIC HERE -->
                             </div>
                     </div>
+                	
                 </div>
+                
             </div>
             <!-- /.container-fluid -->
             <footer class="footer text-center"> 2020 &copy; My Planner </footer>
         </div>
         <!-- /#page-wrapper -->
     </div>
+ 
     <!-- /#wrapper -->
     <!-- jQuery -->
     <script src="assets/plugins/bower_components/jquery/dist/jquery.min.js"></script>
