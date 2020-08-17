@@ -27,7 +27,7 @@
   <header role="banner">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand " href="index.jsp">Time Organizer</a>
+        <a class="navbar-brand " href="index.jsp">Planner</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05"
           aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -61,10 +61,10 @@
       <div class="container">
         <div class="row slider-text align-items-center justify-content-center">
           <div class="col-md-10 text-center col-sm-12 element-animate">
-            <h1>Time Organizer</h1>
+            <h1>Planner</h1>
             <p class="mb-5 sub-text">
             <p><a href="../login" class="btn btn-white btn-outline-white px-3 py-3">Iniciar sesion</a>
-              <a href="../login" class="btn btn-white btn-outline-white px-3 py-3">Registrarse</a></p>
+
           </div>
         </div>
       </div>
@@ -75,10 +75,9 @@
       <div class="container">
         <div class="row slider-text align-items-center justify-content-center">
           <div class="col-md-10 text-center col-sm-12 element-animate">
-            <h1>Atencion xd</h1>
-            <p class="mb-5 sub-text">llenar contenido</p>
+            <h1>Planner</h1>
+            <p class="mb-5 sub-text"></p>
             <p><a href="../login" class="btn btn-white btn-outline-white px-3 py-3">Iniciar sesion</a>
-              <a href="../login" class="btn btn-white btn-outline-white px-3 py-3">Registrarse</a></p>
           </div>
         </div>
       </div>
@@ -104,10 +103,10 @@
         </div>
         <div class="col-md-6 col-lg-4 element-animate ">
           <div class="media block-6 d-block text-center">
-            <div class="icon mb-3"><span class="ion-ios-heart-outline"></span></div>
+            <div class="icon mb-3"><span class="ion-ios-leaf-outline"></span></div>
             <div class="media-body">
-              <h3 class="heading">Otra característica</h3>
-              <p>llenar contenido</p>
+              <h3 class="heading">Mejora tu productividad</h3>
+              <p>Organizándote</p>
             </div>
           </div>
 
@@ -249,24 +248,6 @@
           </div>
         </div>
 
-        <div class="item">
-          <div class="block-33">
-            <div class="vcard d-flex mb-3">
-              <div class="image align-self-center"><img src="images/person_3.jpg" alt="Person here"></div>
-              <div class="name-text align-self-center">
-                <h2 class="heading">John Smith</h2>
-                <span class="meta">CEO, Co-Founder</span>
-              </div>
-            </div>
-            <div class="text">
-              <blockquote>
-                <p>&rdquo; Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga aliquid. Atque dolore esse
-                  veritatis iusto eaque perferendis non dolorem fugiat voluptatibus vitae error ad itaque inventore
-                  accusantium tempore dolores sunt. &ldquo;</p>
-              </blockquote>
-            </div>
-          </div>
-        </div>
 
       </div>
     </div>
@@ -277,28 +258,12 @@
     <div class="container">
       <div class="row mb-5">
         <div class="col-md-4 mb-5">
-          <h3>About The Hexa Template</h3>
-          <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus et dolor blanditiis
-            consequuntur ex voluptates perspiciatis omnis unde minima expedita.</p>
-          <ul class="list-unstyled footer-link d-flex footer-social">
-            <li><a href="#" class="p-2"><span class="fa fa-twitter"></span></a></li>
-            <li><a href="#" class="p-2"><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#" class="p-2"><span class="fa fa-linkedin"></span></a></li>
-            <li><a href="#" class="p-2"><span class="fa fa-instagram"></span></a></li>
-          </ul>
+          <h3></h3>
+          <p class="mb-5"></p>
+
 
         </div>
-        <div class="col-md-5 mb-5 pl-md-5">
-          <h3>Contact Info</h3>
-          <ul class="list-unstyled footer-link">
-            <li class="d-block">
-              <span class="d-block">Address:</span>
-              <span class="text-white">34 Street Name, City Name Here, United States</span></li>
-            <li class="d-block"><span class="d-block">Telephone:</span><span class="text-white">+1 242 4942 290</span>
-            </li>
-            <li class="d-block"><span class="d-block">Email:</span><span class="text-white">info@yourdomain.com</span>
-            </li>
-          </ul>
+
 
       </div>
       <div class="row">
