@@ -73,7 +73,7 @@ Para el funcionamiento de nuestro programa, primero tenemos que crea la siguient
 	
 	Luego modificar en el archivo web.xml el respectivo usuario, password y nombre de la base de datos con la que fue creada (Planner)
 
-![alt text](https://github.com/ShyndellCutipa/Planner-Proyecto-Final/tree/master/WebContent/assets/imagesreadme/01.jpg)
+![alt text](https://github.com/ShyndellCutipa/Planner-Proyecto-Final/tree/master/WebContent/assets/imagesreadme/01.jpeg)
 
 
 ### Patrón de Arquitectura MVC
