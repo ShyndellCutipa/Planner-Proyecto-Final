@@ -16,7 +16,7 @@ El uso de la página web Planner permitirá al usuario programar cada evento, ci
 ### Prerequisitos
 1. Realizar la descarga y configuración de Tomcat, Eclipse y MySQL.
 2. Para el funcionamiento de nuestro programa, primero tenemos que crea la siguiente base de datos:
-
+	...
 	CREATE TABLE planner.favorites (
 		id_fav int(11) NOT NULL AUTO_INCREMENT,
 		category varchar(25) NOT NULL,
@@ -69,11 +69,11 @@ El uso de la página web Planner permitirá al usuario programar cada evento, ci
 	DEFAULT CHARSET=utf8mb4
 	COLLATE=utf8mb4_general_ci
 	COMMENT='';
-	
-	Luego modificar en el archivo web.xml el respectivo usuario, password y nombre de la base de datos con la que fue creada (Planner)
+	...
+3. Luego modificar en el archivo web.xml el respectivo usuario, password y nombre de la base de datos con la que fue creada (Planner)
 
-3. Importar el proyecto en eclipse.
-4. Ejecutar el proyecto.
+4. Importar el proyecto en eclipse.
+5. Ejecutar el proyecto.
 ### Patrón de Arquitectura MVC
 1. Modelo:
 	Accede a la capa de almacenamiento de datos
