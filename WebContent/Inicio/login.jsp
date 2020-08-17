@@ -62,22 +62,17 @@
             <button class="btn btn-info btn-lg btn-block text-uppercase waves-effect waves-light" type="submit">Entrar</button>
           </div>
         </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-12 col-md-12 m-t-10 text-center">
-            <div class="social"><a href="javascript:void(0)" class="btn  btn-facebook" data-toggle="tooltip"  title="Login with Facebook"> <i aria-hidden="true" class="fa fa-facebook"></i> </a> <a href="javascript:void(0)" class="btn btn-googleplus" data-toggle="tooltip"  title="Login with Google"> <i aria-hidden="true" class="fa fa-google-plus"></i> </a> </div>
-          </div>
-        </div>
+
         <div class="form-group m-b-0">
           <div class="col-sm-12 text-center">
-            <p>¿No tienes una cuenta? <a href="register.html" class="text-primary m-l-5"><b>Registrarse</b></a></p>
           </div>
         </div>
       </form>
       <form class="form-horizontal" id="recoverform" action="index.html">
         <div class="form-group ">
           <div class="col-xs-12">
-            <h3>Recover Password</h3>
-            <p class="text-muted">Enter your Email and instructions will be sent to you! </p>
+            <h3>Recuperar Contraseña</h3>
+            <p class="text-muted">Contactarte con admin </p>
           </div>
         </div>
         <div class="form-group ">
